@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+binance
+firebase-admin
+psycopg2
+numpy
+python-binance
