@@ -1,8 +1,5 @@
-streamlit
+streamlit==1.32.2
 pandas
-plotly
-binance
-firebase-admin
-psycopg2
 numpy
+plotly
 python-binance
